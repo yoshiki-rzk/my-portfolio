@@ -1,6 +1,6 @@
 # My Portfolio made while GeekSalon WebExpert Cource
 
-My Portfolio Demo 👉 *[Github PagesのURLを記載]*
+My Portfolio Demo 👉 *https://yoshiki-rzk.github.io/my-portfolio/*
 
 (ここから上の行は、自分で編集してポートフォリオサイトの紹介にしてください。)
 
